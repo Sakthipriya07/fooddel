@@ -61,7 +61,7 @@
 }
 
 @media (max-width: 1050px){
-  .navbar-logo {
+  .navbar .logo {
     width: 140px;
   }
 
@@ -84,7 +84,7 @@
 }
 
 @media (max-width: 900px){
-  .navbar-logo {
+  .navbar .logo {
     width: 120px;
   }
 
